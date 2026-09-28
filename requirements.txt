@@ -1,0 +1,7 @@
+streamlit>=1.35.0
+folium>=0.15.0
+streamlit-folium>=0.18.0
+scikit-learn
+pandas
+numpy
+pillow
